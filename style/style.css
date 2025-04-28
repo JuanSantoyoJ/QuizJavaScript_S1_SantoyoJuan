@@ -31,3 +31,11 @@ body{
     margin: -1rem;
     color: black;
 }
+.wifi{
+    width: 20vw;
+    height: 3vh;
+    margin-left: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
